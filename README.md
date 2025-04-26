@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    I'm <b>Senior AI Engineer</b><br />
+    I'm <b>AI Trading Strategy Expert</b><br />
     Welcome to <b>Pioneer220</b>
 
 </h1>
